@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langgraph
+sqlalchemy
+pandas
+plotly
+prophet
+python-multipart
+python-dotenv
+
+numpy
+scikit-learn
+statsmodels

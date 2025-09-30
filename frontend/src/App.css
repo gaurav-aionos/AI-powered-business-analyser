@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.chat-container {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.messages-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+  background-color: #fafafa;
+}
+
+.input-area {
+  padding: 16px;
+  background-color: white;
+  border-top: 1px solid #e0e0e0;
+}
